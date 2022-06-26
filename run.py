@@ -1,5 +1,5 @@
-•━━╬٨ـﮩDimas-BA٨ـﮩﮩـ╬━━•
-Informasi Hubungi WhatsApp Saya
+
+Informasi Hubungi WhatsApp saya
 http://www.wasap.my/6282261310817
 #include <iostream>
 using namespace std;
